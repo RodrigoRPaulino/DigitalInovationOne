@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\Desafio1\\Desafio1.csproj": {}
+    "C:\\Users\\Rodrigo\\source\\repos\\DigitalInovationOne\\Desafio1\\Desafio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\Desafio1\\Desafio1.csproj": {
+    "C:\\Users\\Rodrigo\\source\\repos\\DigitalInovationOne\\Desafio1\\Desafio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Desafio1\\Desafio1.csproj",
+        "projectUniqueName": "C:\\Users\\Rodrigo\\source\\repos\\DigitalInovationOne\\Desafio1\\Desafio1.csproj",
         "projectName": "Desafio1",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Desafio1\\Desafio1.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Desafio1\\obj\\",
+        "projectPath": "C:\\Users\\Rodrigo\\source\\repos\\DigitalInovationOne\\Desafio1\\Desafio1.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo\\source\\repos\\DigitalInovationOne\\Desafio1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
