@@ -10,16 +10,17 @@ namespace Desafio2
             int n = 20;
             int r = 4;
             int resultado = a1 + (n - 1) * r;
-
-
-
-            Console.ReadLine($ resultado);
-
-
             int valorInicial = 1000;
             int loops = 5;
             int intervalo = 3;
             int incremental = 0;
+
+
+
+            Console.ReadLine($"{ resultado}");
+
+
+            
 
             while (incremental < loops)
             {
